@@ -1,0 +1,90 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color: #AAAAAA;
+}
+
+#divContent
+{
+	width:976px;
+	margin: 0 auto;
+}
+
+#divContentTop
+{
+}
+
+#divContentMiddle
+{
+}
+
+#divContentMiddleForm
+{
+	width: 540px;
+	margin: 0 auto;
+	background-color: #abcdab;
+	border: 2px ridge;
+}
+
+#divContentMiddleForm
+{
+	width: 540px;
+	height: 90px;
+	margin: 0 auto;
+	background-color: #abcdab;
+	border: 2px ridge;
+	padding: 20px 10px;
+}
+
+#divContentMiddleForm fieldset
+{
+	border: 0 none;
+	padding: 0;
+}
+
+#flsImagen
+{
+	float: left;
+	
+}
+
+#flsButton input
+{
+	margin: 0 0 0 70px;
+	
+}
+
+#divContentBottom
+{
+}
+
+
+
+
+.Estilo1
+{
+	color: #999999;
+	font-weight: bold;
+	font-size: 10px;
+}
+.Estilo3
+{
+	color: #2E3192;
+}
+.Estilo4
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.Estilo5
+{
+	color: #666666;
+}
+.Estilo6
+{
+	color: #2E3192; 
+	font-weight: bold; 
+	font-size: 12px;
+}
